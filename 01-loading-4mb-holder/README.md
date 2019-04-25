@@ -36,15 +36,14 @@ Miscellaneous Parts include:
 2. Take out one brain from the tube. Pat dry then soak in fomblin for a few seconds. Use a q-tip dipped in fomblin and run along outer parts of the brain to remove any surface air bubbles. Using tweezers, place brain in bottom left corner. Brains should be inserted such that the frontal lobe of the brain inserts first. Insert brains from the "BACK" of the holder and push towards the "FRONT" of the holder. The interior of the holder has four shaped grooves that will help align the brains parallel to the length of the holder.
 <img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0906.png" width="300" height="270">
 3. Repeat for the rest of the brains. Note where each brain is located within the holder.
-![Load 1st Brain](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0875.png)
-![Load 2nd Brain](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0876.png)
-![Load 3rd Brain](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0877.png)
-![Load 4th Brain](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0879.png)
-
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0875.png.png" width="300" height="270">
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0876.png" width="300" height="270">
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0877.png" width="300" height="270">
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0879.png" width="300" height="270">
 4. Slide in the rest of the pieces of the holder (the sleds) to secure the four brains in place. Sled3 should be oriented horizontally, inserted in the middle grooves of the holder and pushed back until it can no longer move. Sled1 should be oriented according to shape and inserted into the T-shaped grooves. Push sled1 back until it is flush with the mouse brain.
-![Insert sled3 pt1](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0881.png)
-![Insert sled3 pt2](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0882.png)
-![Insert sled1 pt1](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0883.png)
-![Insert sled1 pt2](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0885.png)
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0881.png.png" width="300" height="270">
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0882.png" width="300" height="270">
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0883.png" width="300" height="270">
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0885.png" width="300" height="270">
 5. Slowly fill the entire holder with fomblin. Screw the top on securely and seal with silicone like before. Wait approximately fifteen minutes for it to dry.
-![Applying silicone](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0907.png)
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0907" width="300" height="270">
