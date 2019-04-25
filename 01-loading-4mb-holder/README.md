@@ -41,7 +41,7 @@ Miscellaneous Parts include:
 <img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0877.png" width="300" height="270">
 <img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0879.png" width="300" height="270">
 4. Slide in the rest of the pieces of the holder (the sleds) to secure the four brains in place. Sled3 should be oriented horizontally, inserted in the middle grooves of the holder and pushed back until it can no longer move. Sled1 should be oriented according to shape and inserted into the T-shaped grooves. Push sled1 back until it is flush with the mouse brain.
-<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0881.png" width="300" height="270">
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0881.png" width="350" height="270">
 <img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0882.png" width="300" height="270">
 <img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0883.png" width="300" height="270">
 <img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0885.png" width="300" height="270">
