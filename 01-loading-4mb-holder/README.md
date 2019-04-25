@@ -2,7 +2,7 @@
 # User Manual Part 1: Loading 4MB Holder
 
 ## 4MB Holder Parts List
-![4MB Holder Parts](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0871.png)<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0871.png" width="100" height="20">
+![4MB Holder Parts]<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0871.png" width="500" height="100">
 3D Printed Parts include:
 
 1. 1x Holder 25mm_4mb
