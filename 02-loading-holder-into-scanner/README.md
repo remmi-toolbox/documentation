@@ -1,4 +1,4 @@
-#User Manual Part 2: Loading Holder into Scanner  
+# User Manual Part 2: Loading Holder into Scanner  
 *Note: Protocol may vary depending on the strength of scanner and type of RF coil*
 
 1. Positioning the holder with the "BACK" side facing up, flip the holder 360 degrees to trap any existing air bubbles away from the brains. See figure:
