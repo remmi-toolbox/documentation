@@ -1,7 +1,7 @@
-#User Manual Part 4: Processing Scan Data with the REMMI Package
+# User Manual Part 4: Processing Scan Data with the REMMI Package
 All acquired scan fid data can be processed with the REMMI MATLAB toolbox. The following sections describe examples of basic image reconstruction and calculating various parameter maps from the reconstructed images. 
 
-##Image Reconstruction
+## Image Reconstruction
 The following sample MATLAB code describes how to reconstruct MR images form cartesian k-space data acquired with an REMMI scan using Bruker ParaVision Version 6.0.1.
 
 ```matlab
@@ -31,7 +31,7 @@ ws.images=
        	   imgsize: [100 100 100]
 ```
 
-##Parameter Map Calculation
+## Parameter Map Calculation
 Various types of parameter maps can be calculated from the reconstructed images. The calculation can be generally broken down into three main steps: Masking, denoising, fitting. The first two steps are common to all parameter map calculations, but fitting functions will be specific to the desired parameter map.
 
 ```matlab
@@ -55,7 +55,7 @@ clear dimages
 %% Fitting
 % We will describe fitting functions in separate sections for each applicable scan in REMMI Toolbox. The sample fitting parameters used in the examples are ones we found useful for parameter mapping ex vivo mouse brains (excised out of skull) doped with 1mM Gadolinium. Detailed descriptions of each fitting parameter may be found in the corresponding fitting function used.
 ```
-##MSE (Multiple Spin Echo)
+## MSE (Multiple Spin Echo)
 Multi-exponential T2 analysis using MERA (multi-exponential regression analysis toolbox in REMMI)
 
 ```matlab
@@ -87,7 +87,7 @@ str2func('@(out) sum(out.S(8:47,:))./sum(out.S(8:end,:))');
 	
 ws_mse.T2spect=remmi.mse.mT2(ws_mse.dimages,metrics,fitting,analysis);
 ```
-##SIR (Selective Inversion Recovery)
+## SIR (Selective Inversion Recovery)
 Nonlinear least squares fit
 
 ```matlab
@@ -96,7 +96,7 @@ Nonlinear least squares fit
  
 	ws_sir.qMT = remmi.ir.qmt(ws_sir.dimages);
 ```
-##DTI (Diffusion Tensor Imaging)
+## DTI (Diffusion Tensor Imaging)
 Weighted linear least squares (default) but also has linear and nonlinear least squares options
 
 ```matlab
