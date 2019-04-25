@@ -28,11 +28,11 @@ Miscellaneous Parts include:
 4. Rinse off oil with soap and water thoroughly and let dry for one hour. Then use a thin bristle set to gently yet meticulously scrape through the small features in the holder (paricularly the O-ring grooves and screw holes).
 5. Place all parts in a glass jar filled with hexane, ensuring the parts are fully submerged. Leave in hexane for 24 hours. Then, take parts out and use bristles again to scrape through the holder one last time. Leave out to dry for one hour.
 6. Insert hex nuts and O-rings in appropriate spots. The holder is now ready to be used for scanning.
-<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0872.png" width="500" height="300">
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0872.png" width="500" height="270">
 
 ## Loading Brains into Holder
 1. Pull brains out of refrigerator and place them on counter to allow them to equilibrate to room temperature. While waiting, screw in bottom cap (side labeled "FRONT"). Be sure to apply downward pressure while screwing in the cap to ensure proper O-ring sealing. Then, seal the space where the cap intersects with the holder with silicone to prevent leakage. Wait approximately fifteen minutes for it to dry.
-![Screw FRONT side of Holder](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0873.png)
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0873.png" width="400" height="300"
 2. Take out one brain from the tube. Pat dry then soak in fomblin for a few seconds. Use a q-tip dipped in fomblin and run along outer parts of the brain to remove any surface air bubbles. Using tweezers, place brain in bottom left corner. Brains should be inserted such that the frontal lobe of the brain inserts first. Insert brains from the "BACK" of the holder and push towards the "FRONT" of the holder. The interior of the holder has four shaped grooves that will help align the brains parallel to the length of the holder.
 ![Brain Orientation](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0906.png)
 3. Repeat for the rest of the brains. Note where each brain is located within the holder.
