@@ -3,7 +3,7 @@
 
 1. Launch PV6 0.1 application on MRI scanner computer.
 2. Click "File" in upper left corner and click "New/Study." Title new study appropriately. Click "Create" and then "Exam." 
-<img src="https://github.com/remmi-toolbox/Documentation/blob/master/03-setting-up-scans/Bruker_Interface_Screenshots/Naming_scan.png" width="500" height="400">
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/03-setting-up-scans/Bruker_Interface_Screenshots/Naming_scan.png" width="550" height="300">
 3. In the "Palette" window, click Mouse for "Object," Head for "Region," and Anatomy for "Application." Click and drag "1_Localizer" to "Examination" window on the right. Hit "Apply" then "Continue" to run scan. ![localizer](../User Manual/Bruker Interface Screenshots/Localizer/Load_localizer2.png) 
 4. In the "Palette" window, under the Application option, click "REMMI." Click and drag "T1\_FLASH\_axial" and "T1\_FLASH\_coronal." Adjust the Field of View (FOV) in the "Routine" tab and offsets in the "Geometry" tab if necesary to ensure the brains are contained within the FOV for both scans. To do so, double click on the scan and edit the FOV and geometry offset values. Hit "Apply." Double click T1\_FLASH\_axial, then hit "Continue." ![flash scans](../User Manual/Bruker Interface Screenshots/Flash/flash6.png) 
 5. In the "Palette" window, under Object: "Mouse", Region: "Head," and Application: "REMMI," click and drag "HRANAT\_3D\_4MB" to "Examination" window.![hranat scan](../User Manual/Bruker Interface Screenshots/HRANAT/Load_hranat.png) 
