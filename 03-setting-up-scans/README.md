@@ -8,7 +8,7 @@
 <img src="https://github.com/remmi-toolbox/Documentation/blob/master/03-setting-up-scans/Bruker_Interface_Screenshots/Localizer/Load_localizer2.png" width="510" height="300">
 4. In the "Palette" window, under the Application option, click "REMMI." Click and drag "T1_FLASH_axial" and "T1_FLASH_coronal." Adjust the Field of View (FOV) in the "Routine" tab and offsets in the "Geometry" tab if necesary to ensure the brains are contained within the FOV for both scans. To do so, double click on the scan and edit the FOV and geometry offset values. Hit "Apply." Double click T1_FLASH_axial, then hit "Continue." 
 <img src="https://github.com/remmi-toolbox/Documentation/blob/master/03-setting-up-scans/Bruker_Interface_Screenshots/Flash/flash6.png" width="510" height="300">
-5. In the "Palette" window, under Object: "Mouse", Region: "Head," and Application: "REMMI," click and drag "HRANAT\_3D\_4MB" to "Examination" window.
+5. In the "Palette" window, under Object: "Mouse", Region: "Head," and Application: "REMMI," click and drag "HRANAT_3D_4MB" to "Examination" window.
 <img src="https://github.com/remmi-toolbox/Documentation/blob/master/03-setting-up-scans/Bruker_Interface_Screenshots/HRANAT/Load_hranat.png" width="510" height="300">
 6. Click on the "Adjustment Platform" icon in the upper left corner of the "Examination" window. 
 <img src="https://github.com/remmi-toolbox/Documentation/blob/master/03-setting-up-scans/Bruker_Interface_Screenshots/HRANAT/B0_mapping/adjustment_platorm_icon_annotated.png" width="510" height="300">
