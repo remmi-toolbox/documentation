@@ -28,7 +28,7 @@ Miscellaneous Parts include:
 4. Rinse off oil with soap and water thoroughly and let dry for one hour. Then use a thin bristle set to gently yet meticulously scrape through the small features in the holder (paricularly the O-ring grooves and screw holes).
 5. Place all parts in a glass jar filled with hexane, ensuring the parts are fully submerged. Leave in hexane for 24 hours. Then, take parts out and use bristles again to scrape through the holder one last time. Leave out to dry for one hour.
 6. Insert hex nuts and O-rings in appropriate spots. The holder is now ready to be used for scanning.
-![O-ring & Hexnut Placement](https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0872.png)
+<img src="https://github.com/remmi-toolbox/Documentation/blob/master/01-loading-4mb-holder/4MB_Holder_Photos/IMG_0872.png" width="500" height="200">
 
 ## Loading Brains into Holder
 1. Pull brains out of refrigerator and place them on counter to allow them to equilibrate to room temperature. While waiting, screw in bottom cap (side labeled "FRONT"). Be sure to apply downward pressure while screwing in the cap to ensure proper O-ring sealing. Then, seal the space where the cap intersects with the holder with silicone to prevent leakage. Wait approximately fifteen minutes for it to dry.
